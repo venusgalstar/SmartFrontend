@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b3348d6.chunk.css",
-    "main.js": "/static/js/main.e03709cc.chunk.js",
-    "main.js.map": "/static/js/main.e03709cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4703a584.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4703a584.js.map",
-    "static/js/2.8184484b.chunk.js": "/static/js/2.8184484b.chunk.js",
-    "static/js/2.8184484b.chunk.js.map": "/static/js/2.8184484b.chunk.js.map",
-    "static/js/3.54a90a6f.chunk.js": "/static/js/3.54a90a6f.chunk.js",
-    "static/js/3.54a90a6f.chunk.js.map": "/static/js/3.54a90a6f.chunk.js.map",
+    "main.css": "/static/css/main.3d015aba.chunk.css",
+    "main.js": "/static/js/main.638a011c.chunk.js",
+    "main.js.map": "/static/js/main.638a011c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.30bfe355.js",
+    "runtime-main.js.map": "/static/js/runtime-main.30bfe355.js.map",
+    "static/css/2.b28305bc.chunk.css": "/static/css/2.b28305bc.chunk.css",
+    "static/js/2.9fdd9faf.chunk.js": "/static/js/2.9fdd9faf.chunk.js",
+    "static/js/2.9fdd9faf.chunk.js.map": "/static/js/2.9fdd9faf.chunk.js.map",
+    "static/js/3.fa619229.chunk.js": "/static/js/3.fa619229.chunk.js",
+    "static/js/3.fa619229.chunk.js.map": "/static/js/3.fa619229.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2b3348d6.chunk.css.map": "/static/css/main.2b3348d6.chunk.css.map",
-    "static/js/2.8184484b.chunk.js.LICENSE.txt": "/static/js/2.8184484b.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/static/media/logo.daf04fe5.svg"
+    "static/css/2.b28305bc.chunk.css.map": "/static/css/2.b28305bc.chunk.css.map",
+    "static/css/main.3d015aba.chunk.css.map": "/static/css/main.3d015aba.chunk.css.map",
+    "static/js/2.9fdd9faf.chunk.js.LICENSE.txt": "/static/js/2.9fdd9faf.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/logo.daf04fe5.svg",
+    "static/media/abnewswire.bdb9a004.png": "/static/media/abnewswire.bdb9a004.png",
+    "static/media/fin7.c94e954f.png": "/static/media/fin7.c94e954f.png",
+    "static/media/marketwatch.f3249b54.png": "/static/media/marketwatch.f3249b54.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4703a584.js",
-    "static/js/2.8184484b.chunk.js",
-    "static/css/main.2b3348d6.chunk.css",
-    "static/js/main.e03709cc.chunk.js"
+    "static/js/runtime-main.30bfe355.js",
+    "static/css/2.b28305bc.chunk.css",
+    "static/js/2.9fdd9faf.chunk.js",
+    "static/css/main.3d015aba.chunk.css",
+    "static/js/main.638a011c.chunk.js"
   ]
 }
